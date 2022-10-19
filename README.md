@@ -1,6 +1,6 @@
 # Bingo Game
 
-The goal of this project was to create a menu-driven text-based limited implementation of a bingo game. I have always been passionate about gaming so I really liked the idea of doing a bingo game. This was done as part of my Object Oriented Programming Module at the University of Birmingham. 
+The goal of this project was to create a menu-driven text-based limited implementation of a bingo game. I have always been passionate about gaming so I really liked the idea of doing a bingo game. 
 
 It's a limited implementation so in particular there will be no randomisation of numbers and shouting out.
 
